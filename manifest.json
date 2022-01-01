@@ -1,0 +1,22 @@
+{
+  "name": "botond",
+  "description": "Chrome browser extension for removing modal layers and enabling page scrolling.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+        "16": "/images/botond_16.png",
+        "32": "/images/botond_32.png",
+        "48": "/images/botond_48.png",
+        "64": "/images/botond_64.png",
+        "128": "/images/botond_128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/botond_16.png",
+    "32": "/images/botond_32.png",
+    "48": "/images/botond_48.png",
+    "64": "/images/botond_64.png",
+    "128": "/images/botond_128.png"
+  }
+}
