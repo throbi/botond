@@ -4,7 +4,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_title": "Click to remove modal layers and to enable page scrolling!",
+    "default_title": "Click to remove top layer and to enable page scrolling!",
     "default_icon": {
         "16": "/images/botond_16.png",
         "32": "/images/botond_32.png",
